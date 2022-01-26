@@ -4,6 +4,6 @@ def produit_entiers(liste_entiers):
         x = liste_entiers[n] * x
     return x
 
-print(produit_entiers([7, 7, 1]))
+print(produit_entiers([a, b, c]))
 
 # rename a, b, and c by your number of your list
