@@ -5,7 +5,6 @@ This program calculates the product of a list of numbers.
 
 It's my first project (I'm French).
 
+If this code helped you, eat a cookie :D.
 
-
-If this code helped you, eat a cookie :D
 Good Bye
